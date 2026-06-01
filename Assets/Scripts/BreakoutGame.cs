@@ -686,4 +686,12 @@ namespace ZBreakOut
             }
         }
     }
+
+    public sealed class EditorPreviewOnly : MonoBehaviour
+    {
+        private void Awake()
+        {
+            gameObject.SetActive(false);
+        }
+    }
 }

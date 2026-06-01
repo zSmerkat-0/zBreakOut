@@ -680,11 +680,11 @@ PlayerSettings:
   activeInputHandler: 0
   windowsGamepadBackendHint: 0
   enableDirectStorage: 0
-  cloudProjectId: 
+  cloudProjectId: cebd42a8-ab23-415d-ab0f-37c977a556a4
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: 
-  organizationId: 
+  projectName: zBreakOut
+  organizationId: unity_22040232
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
   hmiLoadingImage: {fileID: 0}
